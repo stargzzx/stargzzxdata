@@ -10,4 +10,4 @@ categories:
 tags:
 - 实验室
 ---
-插件祖网站正在构建，请访问其他组件！
+- [实验室简介](https://stargzzx.github.io/lab/)
