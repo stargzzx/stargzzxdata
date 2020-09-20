@@ -1,6 +1,7 @@
 ---
 title: 建站总过程
 date: 2020-09-18 14:41:37
+cover: https://gitee.com/stargzzx/mainimages/raw/master/create.jpg
 ---
 根据自身的现有的技术，结合开源项目，搭建了一个高分布式、组件式网站的多人合作传承系统。
 
