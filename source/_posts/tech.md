@@ -10,3 +10,4 @@ categories:
 tags:
 - 工具
 ---
+- [技术文档](https://stargzzx.github.io/tech/)
